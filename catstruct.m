@@ -1,4 +1,3 @@
-%% Source: https://www.mathworks.com/matlabcentral/fileexchange/7842-catstruct
 
 function A = catstruct(varargin)
 % CATSTRUCT   Concatenate or merge structures with different fieldnames
@@ -6,7 +5,6 @@ function A = catstruct(varargin)
 %   into one new structure X. X contains all fields present in the various
 %   structures. An example:
 %
-%     A.name = 'Me' ;
 %     B.income = 99999 ;
 %     X = catstruct(A,B) 
 %     % -> X.name = 'Me' ;
