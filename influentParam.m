@@ -1,5 +1,5 @@
-%% This file pulls data from InflChar.m and initialValuesAll.m
-% The Var structure is used for biological parameters,
+
+
 % recycle ratios, the influent concentration and flow,
 % as well as the initial values of the ODE.
 % The initial values can be setup as "start-up",
